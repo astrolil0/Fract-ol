@@ -20,4 +20,4 @@ Compile and run the project files
 
 
 
-![Uploading Mandel_zoom_00_mandelbrot_set.jpeg…]()
+file:///Users/zumgenc/Desktop/Mandel_zoom_00_mandelbrot_set.jpeg
