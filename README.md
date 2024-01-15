@@ -13,6 +13,7 @@ The user can zoom in, zoom out and change the color palette of the fractals.
 
 
 
+
 ## How to Use
 
 Copy the project files to your computer.
