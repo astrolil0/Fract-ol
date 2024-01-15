@@ -19,5 +19,4 @@ Navigate to the project directory in the terminal or command client.
 Compile and run the project files
 
 
-
-file:///Users/zumgenc/Desktop/Mandel_zoom_00_mandelbrot_set.jpeg
+![Mandel_zoom_00_mandelbrot_set](https://github.com/astrolil0/Fract-ol/assets/113148482/a3764a39-3854-40a8-b308-c2be7bc96dae)
