@@ -11,3 +11,13 @@ The project is written in C programming language and developed using the Graphic
 Mandelbrot, Julia and Burning Ship fractals can be explored interactively.
 The user can zoom in, zoom out and change the color palette of the fractals.
 
+
+How to Use:
+
+Copy the project files to your computer.
+Navigate to the project directory in the terminal or command client.
+Compile and run the project files
+
+
+
+![Uploading Mandel_zoom_00_mandelbrot_set.jpeg…]()
