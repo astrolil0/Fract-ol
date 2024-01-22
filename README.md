@@ -1,4 +1,4 @@
-# Fract-ol
+# Fract_ol
 
 Fractol Project - Diving into the Fractal Universe 🌀
 
