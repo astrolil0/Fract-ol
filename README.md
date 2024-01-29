@@ -2,7 +2,7 @@
 
 Fractol Project - Diving into the Fractal Universe 🌀
 
-This project aims to render fractals, which have a mathematical structure and represent complex geometric patterns. It is capable of rendering different types of fractals such as Mandelbrot, Julia and Burning Ship fractals.
+Fractol is a project for the visualisation of mathematical fractals 
 
 
 ## Project Content:
